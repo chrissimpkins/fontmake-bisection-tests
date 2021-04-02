@@ -1,0 +1,1 @@
+fontmake -m src/FBT.designspace -o variable
